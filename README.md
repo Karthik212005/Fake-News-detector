@@ -1,6 +1,4 @@
-Here’s a **clean, simple README.md content** you can use for your Fake News Detection project 👇
 
----
 
  📰 Fake News Detection using Machine Learning
 
